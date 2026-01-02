@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5",
+    "name": "Divya",
+    "age": 20,
+    "job": "Devoloper",
+    "salary": 500000,
+    "education": "B.E ECE"
+  },
+  {
+    "id": "10",
+    "name": "Priya",
+    "age": 22,
+    "job": "Intern",
+    "salary": 10000,
+    "education": "B.E ECE"
+  },
+  {
+    "id": "15",
+    "name": "Monisha",
+    "age": 20,
+    "job": "Engineer",
+    "salary": 500000,
+    "education": "B.E ECE"
+  },
+  {
+    "id": "20",
+    "name": "saraswathi",
+    "age": 22,
+    "job": "Engineer",
+    "salary": 500000,
+    "education": "B.E ECE"
+  },
+  {
+    "id": "25",
+    "name": "Menaka",
+    "age": 22,
+    "job": "Intern",
+    "salary": 200000,
+    "education": "B.E CSE"
+  },
+  {
+    "id": "30",
+    "name": "Mohana",
+    "age": 22,
+    "job": "Software Engineer",
+    "salary": 500000,
+    "education": "B.E CSE"
+  },
+  {
+    "id": "1767345992602",
+    "name": "Mohana",
+    "age": 22,
+    "job": "Software Engineer",
+    "salary": 500000,
+    "education": "B.E CSE"
+  },
+  {
+    "id": "1767346008138",
+    "name": "Mohana",
+    "age": 22,
+    "job": "Software Engineer",
+    "salary": 300000,
+    "education": "B.E CSE"
+  },
+  {
+    "id": "10",
+    "name": "Priya",
+    "age": 22,
+    "job": "Intern",
+    "salary": 10000,
+    "education": "B.E ECE"
+  }
+]
